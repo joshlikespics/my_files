@@ -22,7 +22,7 @@
 #ifndef __sparkfun_tb6612_edison_h_
 #define __sparkfun_tb6612_edison_h_
 
-#include "mraa.hpp"
+#include <mraa.hpp>
 
 class tb6612
 {
